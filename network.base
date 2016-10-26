@@ -1,0 +1,4 @@
+NETWORKING=yes
+HOSTNAME=xhostnamex
+GATEWAY=xgatewayx
+NETWORKING_IPV6=no
